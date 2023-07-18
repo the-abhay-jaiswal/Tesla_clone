@@ -10,7 +10,7 @@ Replica of the original Tesla landing page.
 Interactive components and animations to enhance user experience.
 Redux integration for state management, allowing for a seamless user interface and data flow.
 
-#Technologies Used
+# Technologies Used
 React.js: A JavaScript library for building user interfaces.
 Styled Components: A CSS-in-JS library for styling React components.
 Redux: A predictable state container for JavaScript apps, used for managing the application's state.
