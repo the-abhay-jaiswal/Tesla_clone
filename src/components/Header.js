@@ -9,7 +9,7 @@ function Header() {
   return (
     <Container>
       <a href="/">
-        <img src="./public/logo.svg" alt="" />
+        <img src="https://raw.githubusercontent.com/the-abhay-jaiswal/Tesla_clone/main/public/tesla-logo.png" alt="logo" />
       </a>
       <Menu>
         {cars &&
@@ -39,6 +39,10 @@ const Container = styled.div`
   justify-content: space-between;
   padding: 0 20px;
   z-index: 1;
+  img{
+    width: 180px;
+    height: 45px;
+  }
 `;
 
 const Menu = styled.div`
